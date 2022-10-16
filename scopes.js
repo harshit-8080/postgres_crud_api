@@ -34,4 +34,9 @@
 //console.log(1 - "123");
 
 // 123NaN
-// console.log("123" + {});
+console.log("123" + {});
+
+// console.log("123" + "123");
+// console.log("123" - "123");
+
+console.log("123" - {});

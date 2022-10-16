@@ -4,7 +4,7 @@
   "description": "Node backend application with postgres",
   "main": "scopes.js",
   "scripts": {
-    "server":"nodemon server.js",
+    "server": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
